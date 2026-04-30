@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>LangGraph Workflows Repository</h1>
+<h1>LangGraph Workflows</h1>
 
 <p>
 A hands-on repository to understand and implement different workflow patterns using <b>LangGraph</b>.  
